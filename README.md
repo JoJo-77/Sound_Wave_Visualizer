@@ -1,6 +1,6 @@
-# Project Title
+# Soundwave Visualizer
 
-One Paragraph of project description goes here
+This project is inspired by Devin Crawford's LED Music Visualizer (https://github.com/DevonCrawford/LED-Music-Visualizer).
 
 ## Getting Started
 
