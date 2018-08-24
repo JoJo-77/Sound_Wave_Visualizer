@@ -66,7 +66,7 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
 * **Devin Crawford** - *Initial work* - [DevonCrawford](https://github.com/DevonCrawford)
-* **Joseph Seiler** - *Initial work* - [JoJo-77](https://github.com/JoJo-77)
+* **Joseph Seiler** - *Author* - [JoJo-77](https://github.com/JoJo-77)
 
 
 ## License
