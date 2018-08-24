@@ -1,7 +1,17 @@
 # Soundwave Visualizer
 
 This project is inspired by Devin Crawford's LED Music Visualizer (https://github.com/DevonCrawford/LED-Music-Visualizer).
+The goals of this project are to:
+	- Connect to an arduino via bluetooth
+	- Stream music curently playing to arduino
+	- Create an RGB value based on song's current pitch and volume
+	- Propagate RGB value down LED strip
 
+Issues:
+	- Finding a way to play music and read the frequency/send it out without stopping the music
+
+Solutions:
+	- Use a microphone to pick up freqencies
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
